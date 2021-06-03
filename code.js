@@ -10,3 +10,15 @@ function sayHello(str) {
         return "Hello, World!";
     }
 }
+
+function isFive(num) {
+    return num === 5;
+}
+
+function isEven(num) {
+    return num % 2 === 0;
+}
+
+function isVowel(str) {
+    return str === 'a' || str === 'A';
+}
